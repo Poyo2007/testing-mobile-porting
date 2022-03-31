@@ -42,6 +42,7 @@ jobs:
           haxelib install flixel-addons
           haxelib install tjson
           haxelib install hxjsonast
+          haxelib install newgrounds
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
           haxelib install hscript
           haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
@@ -82,6 +83,7 @@ jobs:
           haxelib install flixel-addons
           haxelib install tjson
           haxelib install hxjsonast
+          haxelib install newgrounds
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
           haxelib install hscript 
           haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
@@ -123,6 +125,7 @@ jobs:
           haxelib install flixel-addons
           haxelib install tjson
           haxelib install hxjsonast
+          haxelib install newgrounds
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
           haxelib install hscript
           haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
@@ -188,6 +191,7 @@ jobs:
           haxelib install flixel-ui 
           haxelib install flixel-addons
           haxelib install hscript
+          haxelib install newgrounds
           haxelib git polymod https://github.com/MasterEric/polymod.git
           haxelib git linc_luajit https://github.com/jigsaw-4277821/linc_luajit.git
           haxelib git AndroidTools https://github.com/jigsaw-4277821/AndroidTools.git   
