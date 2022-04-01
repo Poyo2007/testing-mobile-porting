@@ -2414,11 +2414,11 @@ class PlayState extends MusicBeatState
 
 	function endSong():Void
 	{
+	  #if desktop
 		if (!loadRep)
-		#if desktop
 			rep.SaveReplay(saveNotes);
-		#end
 		else
+		#end
 		{
 			FlxG.save.data.botplay = false;
 			FlxG.save.data.scrollSpeed = 1;
