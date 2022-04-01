@@ -22,7 +22,7 @@ import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 #if desktop
 import io.newgrounds.NG;
-#
+#end
 import lime.app.Application;
 import openfl.Assets;
 
